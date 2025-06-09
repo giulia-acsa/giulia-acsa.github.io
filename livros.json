@@ -1,0 +1,64 @@
+{
+  "categorias": [
+    {
+      "nome": "Ficção Científica",
+      "livros": [
+        { "id": 1, "titulo": "Duna", "autor": "Frank Herbert", "ano": 1965 },
+        { "id": 2, "titulo": "Neuromancer", "autor": "William Gibson", "ano": 1984 },
+        { "id": 3, "titulo": "Fundação", "autor": "Isaac Asimov", "ano": 1951 },
+        { "id": 4, "titulo": "Snow Crash", "autor": "Neal Stephenson", "ano": 1992 },
+        { "id": 5, "titulo": "O Fim da Infância", "autor": "Arthur C. Clarke", "ano": 1953 }
+      ]
+    },
+    {
+      "nome": "Fantasia",
+      "livros": [
+        { "id": 6, "titulo": "O Senhor dos Anéis", "autor": "J.R.R. Tolkien", "ano": 1954 },
+        { "id": 7, "titulo": "Harry Potter e a Pedra Filosofal", "autor": "J.K. Rowling", "ano": 1997 },
+        { "id": 8, "titulo": "O Nome do Vento", "autor": "Patrick Rothfuss", "ano": 2007 },
+        { "id": 9, "titulo": "Mistborn: O Império Final", "autor": "Brandon Sanderson", "ano": 2006 },
+        { "id": 10, "titulo": "As Crônicas de Nárnia", "autor": "C.S. Lewis", "ano": 1950 }
+      ]
+    },
+    {
+      "nome": "Romance",
+      "livros": [
+        { "id": 11, "titulo": "Orgulho e Preconceito", "autor": "Jane Austen", "ano": 1813 },
+        { "id": 12, "titulo": "Como Eu Era Antes de Você", "autor": "Jojo Moyes", "ano": 2012 },
+        { "id": 13, "titulo": "O Morro dos Ventos Uivantes", "autor": "Emily Brontë", "ano": 1847 },
+        { "id": 14, "titulo": "A Culpa é das Estrelas", "autor": "John Green", "ano": 2012 },
+        { "id": 15, "titulo": "O Amor nos Tempos do Cólera", "autor": "Gabriel García Márquez", "ano": 1985 }
+      ]
+    },
+    {
+      "nome": "Suspense / Mistério",
+      "livros": [
+        { "id": 16, "titulo": "O Código Da Vinci", "autor": "Dan Brown", "ano": 2003 },
+        { "id": 17, "titulo": "Garota Exemplar", "autor": "Gillian Flynn", "ano": 2012 },
+        { "id": 18, "titulo": "O Silêncio dos Inocentes", "autor": "Thomas Harris", "ano": 1988 },
+        { "id": 19, "titulo": "Os Homens que Não Amavam as Mulheres", "autor": "Stieg Larsson", "ano": 2005 },
+        { "id": 20, "titulo": "Assassinato no Expresso do Oriente", "autor": "Agatha Christie", "ano": 1934 }
+      ]
+    },
+    {
+      "nome": "Não Ficção",
+      "livros": [
+        { "id": 21, "titulo": "Sapiens: Uma Breve História da Humanidade", "autor": "Yuval Noah Harari", "ano": 2011 },
+        { "id": 22, "titulo": "O Poder do Hábito", "autor": "Charles Duhigg", "ano": 2012 },
+        { "id": 23, "titulo": "Mindset", "autor": "Carol S. Dweck", "ano": 2006 },
+        { "id": 24, "titulo": "A Coragem de Ser Imperfeito", "autor": "Brené Brown", "ano": 2012 },
+        { "id": 25, "titulo": "Como Fazer Amigos e Influenciar Pessoas", "autor": "Dale Carnegie", "ano": 1936 }
+      ]
+    },
+    {
+      "nome": "Biografias / Memórias",
+      "livros": [
+        { "id": 26, "titulo": "Steve Jobs", "autor": "Walter Isaacson", "ano": 2011 },
+        { "id": 27, "titulo": "Minha História", "autor": "Michelle Obama", "ano": 2018 },
+        { "id": 28, "titulo": "Longa Caminhada até a Liberdade", "autor": "Nelson Mandela", "ano": 1994 },
+        { "id": 29, "titulo": "Eu Sou Malala", "autor": "Malala Yousafzai", "ano": 2013 },
+        { "id": 30, "titulo": "Born a Crime", "autor": "Trevor Noah", "ano": 2016 }
+      ]
+    }
+  ]
+}
